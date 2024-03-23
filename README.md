@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**diamonce/diamonce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a bit about me and what I'm interested in:
 
-Here are some ideas to get you started:
+#### Personal Information:
+- **Name:** Dima
+- **Citizenship:** Ukraine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills:
+- **Operating Systems/Software:** Windows, Linux (RHEL/Ubuntu), Mac, Jama Contour/Spira, JIRA, Git, SVN
+- **Virtualization:** KVM, Docker, k8s, terraform, GCP, AWS, Helm, AgroCD
+- **Databases:** MariaDB, Firebird, SQLite, MySQL, MongoDB
+- **Programming Languages:** Perl, C++, Java, JavaScript, Bash, Python, Golang
+- **Test Automation:** Robot Framework (Python-based)
+- **Web Interfaces Development:** HTML, CSS, JavaScript, React
+- **Other Skills:** Designing complicated systems and applications, Perl development, good communication skills, teamwork, self-discipline, self-learning, open-minded, persistent
+
+#### Activities and Interests:
+- HAM Radio Operator (UR0ZQ)
+- CrossFit enthusiast
+- Running (working towards running 10km)
+- Retro computing (modern ZX Spectrum owner) and electronics (Arduino-based projects)
+- Curious about retro technology, electronic design patterns, and how things work
+- General curiosity about almost everything
+
+You can contact me via email at [dim.chernenko@gmail.com](mailto:dim.chernenko@gmail.com).
