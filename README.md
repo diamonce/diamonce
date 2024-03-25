@@ -8,7 +8,7 @@ Here's a bit about me and what I'm interested in:
 
 #### Skills:
 - **Operating Systems/Software:** Windows, Linux (RHEL/Ubuntu), Mac, Jama Contour/Spira, JIRA, Git, SVN
-- **Virtualization:** KVM, Docker, k8s, terraform, GCP, AWS, Helm, AgroCD
+- **Virtualization:** KVM, Docker, k8s, terraform, GCP, AWS, Helm, ArgoCD
 - **Databases:** MariaDB, Firebird, SQLite, MySQL, MongoDB
 - **Programming Languages:** Perl, C++, Java, JavaScript, Bash, Python, Golang
 - **Test Automation:** Robot Framework (Python-based)
